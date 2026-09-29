@@ -16,8 +16,8 @@ GALLERY = RESULTS / "gallery"
 HIGHLIGHTS = [
     ("ship", "K1-01", (0.815, 0.55), 900),
     ("coat_of_arms", "K7-27", (0.775, 0.655), 700),
-    ("longitude_figures", "K4-13", (0.30, 0.155), 800),
-    ("coordinate_grid", "K5-14", (0.15, 0.085), 1000),
+    ("longitude_figures", "K4-13", (0.30, 0.19), 700),
+    ("coordinate_grid", "K5-14", (0.15, 0.12), 900),
 ]
 
 
