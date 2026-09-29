@@ -1,0 +1,429 @@
+{
+ "source": "Allard Pierson (University of Amsterdam) catalogue records that quote state descriptions from Koeman's Atlantes Neerlandici (ed. P. van der Krogt). Each family is one plate; every sheet has at least one other impression in the collection.",
+ "families": {
+  "1": {
+   "catalogue_note": "Van der Krogt: sommige exemplaren variant (proefdruk): schip ontbreekt, 'Germanicvs' zonder ornamenten etc.",
+   "sheets": [
+    "11245_3_9944034275605131",
+    "11245_3_9944045817905131"
+   ],
+   "checked_by_eye": "found: ship off Holland and the ornament under GERMANICVS, absent in the proof"
+  },
+  "2": {
+   "catalogue_note": "Van der Krogt: 2 staten: de exemplaren in Atlas Maior met 4 schepen toegevoegd rondom Ierland",
+   "sheets": [
+    "11245_3_9944045817105131",
+    "11245_3_9944045817205131"
+   ],
+   "checked_by_eye": "correct negative: both Allard Pierson copies are the first state (no ships)"
+  },
+  "3": {
+   "catalogue_note": "Koeman: 2 staten; staat 2 met coördinaten, sommige met Naam-wyser op verso",
+   "sheets": [
+    "11245_3_9944092690705131",
+    "11245_3_9944092691505131",
+    "11245_3_9944092792405131",
+    "11245_3_9944092792505131",
+    "11245_3_9944197094805131"
+   ],
+   "checked_by_eye": null
+  },
+  "4": {
+   "catalogue_note": "Van der Krogt: 2 varianten: [a.] lengtegraden: 29°20-34°40' ; [b.] lengtegraden: 25°40'-31°00'",
+   "sheets": [
+    "11245_3_9944092693005131",
+    "11245_3_9944092693105131"
+   ],
+   "checked_by_eye": "found by pixel difference: border longitude figures re-engraved; missed by the block statistic"
+  },
+  "5": {
+   "catalogue_note": "Twee staten: met en zonder coördinaten t.b.v. plaatsnaamregister (respectievelijk Koeman [194*] en [194])",
+   "sheets": [
+    "11245_3_9944092695305131",
+    "11245_3_9944092695405131",
+    "11245_3_9944197095805131"
+   ],
+   "checked_by_eye": "found: coordinate grid and border letters; also an undocumented re-engraving of the north-east quarter"
+  },
+  "6": {
+   "catalogue_note": "Varianten: met of zonder coördinaten, verso blanco (vgl. Koeman [173*]); met coördinaten, verso: Register/Naam-wyser [173**]",
+   "sheets": [
+    "11245_3_9944106825805131",
+    "11245_3_9944106825905131",
+    "11245_3_9944106826005131",
+    "11245_3_9944106826105131",
+    "11245_3_9944106826205131"
+   ],
+   "checked_by_eye": null
+  },
+  "7": {
+   "catalogue_note": "Varianten (Van der Krogt): [a.] balken in wapen van rechtsboven naar linksonder; [b.] balken in wapen van linksboven naar rechtsonder",
+   "sheets": [
+    "11245_3_9944106833605131",
+    "11245_3_9944106833705131"
+   ],
+   "checked_by_eye": "found: bars in the shield re-cut in the opposite direction"
+  },
+  "8": {
+   "catalogue_note": "Variant (Koeman .... [110*]): met plaatsnamenlijst op achterzijde",
+   "sheets": [
+    "11245_3_9944151267505131",
+    "11245_3_9944151267605131",
+    "11245_3_9944151367205131"
+   ],
+   "checked_by_eye": "correct negative: the difference is on the verso, which the scans do not show"
+  }
+ },
+ "sheets": {
+  "11245_3_9944034275605131": {
+   "shelfmark": "HB-KZL 31.17.20",
+   "year": "1595",
+   "title": "Anglia regnum, Per Gerardum Mercatorem",
+   "handle": "https://hdl.handle.net/11245/3.9944034275605131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944034275605131!NL-AsdUvA_HB_KZL_31_17_20-001.jpg"
+  },
+  "11245_3_9944045817905131": {
+   "shelfmark": "HB-KZL 31.17.19",
+   "year": "1595",
+   "title": "Anglia regnum, Per Gerardum Mercatorem",
+   "handle": "https://hdl.handle.net/11245/3.9944045817905131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944045817905131!NL-AsdUvA_HB_KZL_31_17_19-001.jpg"
+  },
+  "11245_3_9944045817105131": {
+   "shelfmark": "HB-KZL 31.17.63",
+   "year": "1634",
+   "title": "Hibernia Regnvm vulgo Ireland",
+   "handle": "https://hdl.handle.net/11245/3.9944045817105131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944045817105131!NL-AsdUvA_HB_KZL_31_17_63-001.jpg"
+  },
+  "11245_3_9944045817205131": {
+   "shelfmark": "HB-KZL 31.17.62",
+   "year": "1634",
+   "title": "Hibernia Regnvm vulgo Ireland",
+   "handle": "https://hdl.handle.net/11245/3.9944045817205131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944045817205131!NL-AsdUvA_HB_KZL_31_17_62-001.jpg"
+  },
+  "11245_3_9944092690705131": {
+   "shelfmark": "HB-KZL 32.03.19",
+   "year": "1690",
+   "title": "Exactissima tabula qua tam Danubii fluvii pars superior, ab ejus fontibus ad Posonium urbem et minores in eum influentes fluvii quam regiones adjacentes ut Aust",
+   "handle": "https://hdl.handle.net/11245/3.9944092690705131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944092690705131!NL-AsdUvA_HB_KZL_32_03_19-001.jpg"
+  },
+  "11245_3_9944092691505131": {
+   "shelfmark": "HB-KZL 32.03.15",
+   "year": "1690",
+   "title": "Exactissima tabula qua tam Danubii fluvii pars superior, ab ejus fontibus ad Posonium urbem et minores in eum influentes fluvii quam regiones adjacentes ut Aust",
+   "handle": "https://hdl.handle.net/11245/3.9944092691505131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944092691505131!NL-AsdUvA_HB_KZL_32_03_15-001.jpg"
+  },
+  "11245_3_9944092792405131": {
+   "shelfmark": "HB-KZL 32.03.18",
+   "year": "1690",
+   "title": "Exactissima tabula qua tam Danubii fluvii pars superior, ab ejus fontibus ad Posonium urbem et minores in eum influentes fluvii quam regiones adjacentes ut Aust",
+   "handle": "https://hdl.handle.net/11245/3.9944092792405131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944092792405131!NL-AsdUvA_HB_KZL_32_03_18-001.jpg"
+  },
+  "11245_3_9944092792505131": {
+   "shelfmark": "HB-KZL 32.03.16",
+   "year": "1690",
+   "title": "Exactissima tabula qua tam Danubii fluvii pars superior, ab ejus fontibus ad Posonium urbem et minores in eum influentes fluvii quam regiones adjacentes ut Aust",
+   "handle": "https://hdl.handle.net/11245/3.9944092792505131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944092792505131!NL-AsdUvA_HB_KZL_32_03_16-001.jpg"
+  },
+  "11245_3_9944197094805131": {
+   "shelfmark": "HB-KZL 34.20.15",
+   "year": "1690",
+   "title": "Exactissima tabula qua tam Danubii fluvii pars superior, ab ejus fontibus ad Posonium urbem et minores in eum influentes fluvii quam regiones adjacentes ut Aust",
+   "handle": "https://hdl.handle.net/11245/3.9944197094805131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944197094805131!NL-AsdUvA_HB_KZL_34_20_15-001.jpg"
+  },
+  "11245_3_9944092693005131": {
+   "shelfmark": "HB-KZL 32.01.42",
+   "year": "1630",
+   "title": "Sveviae nova tabvla",
+   "handle": "https://hdl.handle.net/11245/3.9944092693005131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944092693005131!NL-AsdUvA_HB_KZL_32_01_42-001.jpg"
+  },
+  "11245_3_9944092693105131": {
+   "shelfmark": "HB-KZL 32.01.41",
+   "year": "1630",
+   "title": "Sveviae nova tabvla",
+   "handle": "https://hdl.handle.net/11245/3.9944092693105131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944092693105131!NL-AsdUvA_HB_KZL_32_01_41-001.jpg"
+  },
+  "11245_3_9944092695305131": {
+   "shelfmark": "HB-KZL 31.33.21",
+   "year": "1690",
+   "title": "Generalis Lotharingiae ducatus tabula, qua accuratissimé ostenduntur ducatus Lotharingiae propriae et Barrensis, nec non Metensis, Tullensis, Verdunensis et ali",
+   "handle": "https://hdl.handle.net/11245/3.9944092695305131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944092695305131!NL-AsdUvA_HB_KZL_31_33_21-001.jpg"
+  },
+  "11245_3_9944092695405131": {
+   "shelfmark": "HB-KZL 31.33.18",
+   "year": "1690",
+   "title": "Generalis Lotharingiae ducatus tabula, qua accuratissimé ostenduntur ducatus Lotharingiae propriae et Barrensis, nec non Metensis, Tullensis, Verdunensis et ali",
+   "handle": "https://hdl.handle.net/11245/3.9944092695405131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944092695405131!NL-AsdUvA_HB_KZL_31_33_18-001.jpg"
+  },
+  "11245_3_9944197095805131": {
+   "shelfmark": "HB-KZL 34.19.15",
+   "year": "1690",
+   "title": "Generalis Lotharingiae ducatus tabula, qua accuratissimé ostenduntur ducatus Lotharingiae propriae et Barrensis, nec non Metensis, Tullensis, Verdunensis et ali",
+   "handle": "https://hdl.handle.net/11245/3.9944197095805131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944197095805131!NL-AsdUvA_HB_KZL_34_19_15-001.jpg"
+  },
+  "11245_3_9944106825805131": {
+   "shelfmark": "HB-KZL 32.20.26",
+   "year": "1677",
+   "title": "Exactissima Helvetiae Rhaetiae, Valesiae caeterorumq. confoederatorum ut et finitimorum populorum regionum tabula, ex conatibus Nicolaum Visscher Amst. Bat. ; A",
+   "handle": "https://hdl.handle.net/11245/3.9944106825805131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944106825805131!NL-AsdUvA_HB_KZL_32_20_26-001.jpg"
+  },
+  "11245_3_9944106825905131": {
+   "shelfmark": "HB-KZL 32.20.25",
+   "year": "1677",
+   "title": "Exactissima Helvetiae Rhaetiae, Valesiae caeterorumq. confoederatorum ut et finitimorum populorum regionum tabula, ex conatibus Nicolaum Visscher Amst. Bat. ; A",
+   "handle": "https://hdl.handle.net/11245/3.9944106825905131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944106825905131!NL-AsdUvA_HB_KZL_32_20_25-001.jpg"
+  },
+  "11245_3_9944106826005131": {
+   "shelfmark": "HB-KZL 32.20.24",
+   "year": "1677",
+   "title": "Exactissima Helvetiae Rhaetiae, Valesiae caeterorumq. confoederatorum ut et finitimorum populorum regionum tabula, ex conatibus Nicolaum Visscher Amst. Bat. ; A",
+   "handle": "https://hdl.handle.net/11245/3.9944106826005131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944106826005131!NL-AsdUvA_HB_KZL_32_20_24-001.jpg"
+  },
+  "11245_3_9944106826105131": {
+   "shelfmark": "HB-KZL 32.20.23",
+   "year": "1677",
+   "title": "Exactissima Helvetiae Rhaetiae, Valesiae caeterorumq. confoederatorum ut et finitimorum populorum regionum tabula, ex conatibus Nicolaum Visscher Amst. Bat. ; A",
+   "handle": "https://hdl.handle.net/11245/3.9944106826105131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944106826105131!NL-AsdUvA_HB_KZL_32_20_23-001.jpg"
+  },
+  "11245_3_9944106826205131": {
+   "shelfmark": "HB-KZL 32.20.22",
+   "year": "1677",
+   "title": "Exactissima Helvetiae Rhaetiae, Valesiae caeterorumq. confoederatorum ut et finitimorum populorum regionum tabula, ex conatibus Nicolaum Visscher Amst. Bat. ; A",
+   "handle": "https://hdl.handle.net/11245/3.9944106826205131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944106826205131!NL-AsdUvA_HB_KZL_32_20_22-001.jpg"
+  },
+  "11245_3_9944106833605131": {
+   "shelfmark": "HB-KZL 32.12.03",
+   "year": "1634",
+   "title": "Champagne latine Campania, comitatvs",
+   "handle": "https://hdl.handle.net/11245/3.9944106833605131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944106833605131!NL-AsdUvA_HB_KZL_32_12_03-001.jpg"
+  },
+  "11245_3_9944106833705131": {
+   "shelfmark": "HB-KZL 32.12.02",
+   "year": "1634",
+   "title": "Champagne latine Campania, comitatvs",
+   "handle": "https://hdl.handle.net/11245/3.9944106833705131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944106833705131!NL-AsdUvA_HB_KZL_32_12_02-001.jpg"
+  },
+  "11245_3_9944151267505131": {
+   "shelfmark": "HB-KZL 33.29.12",
+   "year": "1680",
+   "title": "Belgii pars meridionalis cum occidentalibus Germaniae et septentrionalibus Franciae confiniis, peraccurate in hanc tabulam redacta per Nicolaum Visscher",
+   "handle": "https://hdl.handle.net/11245/3.9944151267505131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944151267505131!NL-AsdUvA_HB_KZL_33_29_12-001.jpg"
+  },
+  "11245_3_9944151267605131": {
+   "shelfmark": "HB-KZL 33.29.11",
+   "year": "1680",
+   "title": "Belgii pars meridionalis cum occidentalibus Germaniae et septentrionalibus Franciae confiniis, peraccurate in hanc tabulam redacta per Nicolaum Visscher",
+   "handle": "https://hdl.handle.net/11245/3.9944151267605131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944151267605131!NL-AsdUvA_HB_KZL_33_29_11-001.jpg"
+  },
+  "11245_3_9944151367205131": {
+   "shelfmark": "HB-KZL 33.29.13",
+   "year": "1680",
+   "title": "Belgii pars meridionalis cum occidentalibus Germaniae et septentrionalibus Franciae confiniis, peraccurate in hanc tabulam redacta per Nicolaum Visscher",
+   "handle": "https://hdl.handle.net/11245/3.9944151367205131",
+   "iiif": "https://images.uba.uva.nl/iiif/2/default!1!3!1!11245_3_9944151367205131!NL-AsdUvA_HB_KZL_33_29_12-001.jpg"
+  }
+ },
+ "pairs": [
+  {
+   "id": "K1-01",
+   "family": 1,
+   "A": "11245_3_9944034275605131",
+   "B": "11245_3_9944045817905131"
+  },
+  {
+   "id": "K2-02",
+   "family": 2,
+   "A": "11245_3_9944045817105131",
+   "B": "11245_3_9944045817205131"
+  },
+  {
+   "id": "K3-03",
+   "family": 3,
+   "A": "11245_3_9944092690705131",
+   "B": "11245_3_9944092691505131"
+  },
+  {
+   "id": "K3-04",
+   "family": 3,
+   "A": "11245_3_9944092690705131",
+   "B": "11245_3_9944092792405131"
+  },
+  {
+   "id": "K3-05",
+   "family": 3,
+   "A": "11245_3_9944092690705131",
+   "B": "11245_3_9944092792505131"
+  },
+  {
+   "id": "K3-06",
+   "family": 3,
+   "A": "11245_3_9944092690705131",
+   "B": "11245_3_9944197094805131"
+  },
+  {
+   "id": "K3-07",
+   "family": 3,
+   "A": "11245_3_9944092691505131",
+   "B": "11245_3_9944092792405131"
+  },
+  {
+   "id": "K3-08",
+   "family": 3,
+   "A": "11245_3_9944092691505131",
+   "B": "11245_3_9944092792505131"
+  },
+  {
+   "id": "K3-09",
+   "family": 3,
+   "A": "11245_3_9944092691505131",
+   "B": "11245_3_9944197094805131"
+  },
+  {
+   "id": "K3-10",
+   "family": 3,
+   "A": "11245_3_9944092792405131",
+   "B": "11245_3_9944092792505131"
+  },
+  {
+   "id": "K3-11",
+   "family": 3,
+   "A": "11245_3_9944092792405131",
+   "B": "11245_3_9944197094805131"
+  },
+  {
+   "id": "K3-12",
+   "family": 3,
+   "A": "11245_3_9944092792505131",
+   "B": "11245_3_9944197094805131"
+  },
+  {
+   "id": "K4-13",
+   "family": 4,
+   "A": "11245_3_9944092693005131",
+   "B": "11245_3_9944092693105131"
+  },
+  {
+   "id": "K5-14",
+   "family": 5,
+   "A": "11245_3_9944092695305131",
+   "B": "11245_3_9944092695405131"
+  },
+  {
+   "id": "K5-15",
+   "family": 5,
+   "A": "11245_3_9944092695305131",
+   "B": "11245_3_9944197095805131"
+  },
+  {
+   "id": "K5-16",
+   "family": 5,
+   "A": "11245_3_9944092695405131",
+   "B": "11245_3_9944197095805131"
+  },
+  {
+   "id": "K6-17",
+   "family": 6,
+   "A": "11245_3_9944106825805131",
+   "B": "11245_3_9944106825905131"
+  },
+  {
+   "id": "K6-18",
+   "family": 6,
+   "A": "11245_3_9944106825805131",
+   "B": "11245_3_9944106826005131"
+  },
+  {
+   "id": "K6-19",
+   "family": 6,
+   "A": "11245_3_9944106825805131",
+   "B": "11245_3_9944106826105131"
+  },
+  {
+   "id": "K6-20",
+   "family": 6,
+   "A": "11245_3_9944106825805131",
+   "B": "11245_3_9944106826205131"
+  },
+  {
+   "id": "K6-21",
+   "family": 6,
+   "A": "11245_3_9944106825905131",
+   "B": "11245_3_9944106826005131"
+  },
+  {
+   "id": "K6-22",
+   "family": 6,
+   "A": "11245_3_9944106825905131",
+   "B": "11245_3_9944106826105131"
+  },
+  {
+   "id": "K6-23",
+   "family": 6,
+   "A": "11245_3_9944106825905131",
+   "B": "11245_3_9944106826205131"
+  },
+  {
+   "id": "K6-24",
+   "family": 6,
+   "A": "11245_3_9944106826005131",
+   "B": "11245_3_9944106826105131"
+  },
+  {
+   "id": "K6-25",
+   "family": 6,
+   "A": "11245_3_9944106826005131",
+   "B": "11245_3_9944106826205131"
+  },
+  {
+   "id": "K6-26",
+   "family": 6,
+   "A": "11245_3_9944106826105131",
+   "B": "11245_3_9944106826205131"
+  },
+  {
+   "id": "K7-27",
+   "family": 7,
+   "A": "11245_3_9944106833605131",
+   "B": "11245_3_9944106833705131"
+  },
+  {
+   "id": "K8-28",
+   "family": 8,
+   "A": "11245_3_9944151267505131",
+   "B": "11245_3_9944151267605131"
+  },
+  {
+   "id": "K8-29",
+   "family": 8,
+   "A": "11245_3_9944151267505131",
+   "B": "11245_3_9944151367205131"
+  },
+  {
+   "id": "K8-30",
+   "family": 8,
+   "A": "11245_3_9944151267605131",
+   "B": "11245_3_9944151367205131"
+  }
+ ]
+}

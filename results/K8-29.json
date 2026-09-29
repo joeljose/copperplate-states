@@ -1,0 +1,25 @@
+{
+ "pair": "K8-29",
+ "family": 8,
+ "A": "11245_3_9944151267505131",
+ "B": "11245_3_9944151367205131",
+ "A_shelfmark": "HB-KZL 33.29.12",
+ "B_shelfmark": "HB-KZL 33.29.13",
+ "same_plate": true,
+ "scale": 1.0,
+ "changed_share_of_ink": 0.0,
+ "n_regions": 0,
+ "regions": [],
+ "transform_B_to_A": [
+  [
+   1.0,
+   -0.0,
+   0.0
+  ],
+  [
+   0.0,
+   1.0,
+   0.0
+  ]
+ ]
+}
